@@ -9,3 +9,9 @@ x64/
 *.ilk
 *.pdb
 *.exe
+*.filters
+*.rc
+*.aps
+
+*.filters
+/packages
